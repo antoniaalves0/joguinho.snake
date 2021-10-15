@@ -1,0 +1,1 @@
+Esse repositório foi feito para recriar o  velho jogo da cobrinha.
